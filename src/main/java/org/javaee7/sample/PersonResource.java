@@ -7,6 +7,11 @@ import javax.ws.rs.Path;
 import javax.ws.rs.PathParam;
 import javax.ws.rs.Produces;
 
+
+/* Popopo */
+/* Spaghetti */
+/* Spaghetti */
+
 //@RequestScoped
 @Path("persons")
 public class PersonResource {
