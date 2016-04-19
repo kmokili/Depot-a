@@ -12,6 +12,7 @@ public class Person {
     public Person() {
     }
 
+	/* A person's name */
     public Person(String name) {
         this.name = name;
     }
