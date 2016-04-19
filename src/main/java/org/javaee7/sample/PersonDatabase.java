@@ -7,7 +7,7 @@ import javax.annotation.PostConstruct;
 import javax.inject.Singleton;
 import javax.ws.rs.NotFoundException;
 /* pouet */ 
-/* atchoum ppp*/
+/* prout */
 @Singleton
 public class PersonDatabase {
 
